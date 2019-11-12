@@ -1,0 +1,20 @@
+[
+    {
+        "offer": "buy-one-get-one-free",
+        "productsNum": 2,
+        "multiplier": 0.5,
+        "calculation": "%"
+    },
+    {
+        "offer": "bulk-buy",
+        "productsNum": 3,
+        "multiplier": 0.9,
+        "calculation": ">"
+    },
+    {
+        "offer": "none",
+        "productsNum": 1,
+        "multiplier": 1,
+        "calculation": ""
+    }
+]

@@ -1,0 +1,30 @@
+.product-item-wrapper {
+  padding: 10px;
+  display: block;
+  max-width: 150px;
+  text-align: center;
+  border: 5px solid #ddd;
+  margin-right: 5px;
+}
+
+.product-item {
+  border-radius: 20px;
+  height: 120px;
+  font-size: 14px;
+  padding: 10px 10px 30px;
+}
+
+.add-to-cart {
+  background: #6699cc;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.add-to-cart:hover {
+  opacity: 0.9;
+  text-decoration: none;
+}

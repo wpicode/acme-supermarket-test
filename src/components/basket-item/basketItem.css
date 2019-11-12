@@ -1,0 +1,15 @@
+.basket-list {
+  display: inline;
+}
+
+.basket-list-item {
+  display: inline;
+  font-family: Arial, Helvetica, sans-serif;
+  border-bottom: 1px solid #ddd;
+}
+
+.basket-list-item div {
+  width: 174px;
+  padding: 10px;
+  font-weight: bold;
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Fruit tea",
+        "code": "FR1",
+        "price": 3.11,
+        "offer": "buy-one-get-one-free"
+    },
+    {
+        "name": "Strawberries",
+        "code": "SR1",
+        "price": 5.00,
+        "offer": "bulk-buy"
+    },
+    {
+        "name": "Coffee",
+        "code": "CF1",
+        "price": 11.23,
+        "offer": "none"
+    }
+]
